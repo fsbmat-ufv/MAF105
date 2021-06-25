@@ -1,0 +1,2 @@
+1 - Tive que desinstalar o Miktex e instalar o TexLive
+2 - O pacote biblatex não funcionou com o Sweave
